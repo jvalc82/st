@@ -14,7 +14,7 @@ by executing `man st` in your terminal.
 - xresources:                           Add support for configuration though Xresources
 
 ## Installation 
-- `git clone https://gitlab.com/jvalc/st.git`
+- `git clone https://gitlab.com/jvalc82/st.git`
 - `cd st`
 - `make`
 - `sudo make install`
